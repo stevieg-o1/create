@@ -97,7 +97,13 @@
       "category": "Food",
       "amount": "3000",
       "id": 14
+    },
+    {
+      "date": "2020-07-10",
+      "description": "Cars",
+      "category": "from kairo imports",
+      "amount": "5000",
+      "id": 15
     }
   ]
- }
- 
+}
